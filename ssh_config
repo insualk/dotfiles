@@ -1,0 +1,9 @@
+Host fm
+    Hostname 144.202.97.5
+    User web
+Host caen
+    Hostname login-course-2fa.engin.umich.edu
+    User nixl
+Host do
+	Hostname 159.203.37.177
+	User nixl 
